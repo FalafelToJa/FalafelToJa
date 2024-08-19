@@ -25,8 +25,13 @@
   <strong><a href="https://www.twitch.tv/falafeltoja/about">Twitch</a></strong> |
   <strong><a href="https://www.youtube.com/channel/UCQ7OZ6LJIpcSxU7e4oWIm9Q">YouTube</a></strong>
 </p>
-
+    <p align="center">
+  <strong><a href="https://myanimelist.net/profile/FalafelToJa">MAL</a></strong> |
+  <strong><a href="https://anilist.co/user/FalafelToJa/">AniList</a></strong> |
+  <strong><a href="https://www.backloggd.com/u/FalafelToJa/">Backloggd</a></strong> |
+  <strong><a href="https://app.tvtime.com/user/72177535?referrer_id=72177535">TvTime</a></strong>
+</p>
 
 <h2 align="center">~ Żegnam! / Bau bau! / Thanks for reading! / Adios! ~</h2>
 <div align="center">
-<img src="https://media1.tenor.com/m/rW4avprQN8oAAAAC/lumity-chibi.gif">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo0d3liajZzNG8zZnlleHdneXprcGgxaTExd3VhaHN3NGNkcnp3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/So9oVbGQXoI6BRxI0H/giphy.webp">
