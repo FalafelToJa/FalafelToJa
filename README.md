@@ -17,6 +17,16 @@
   <div align="center">
 <li><b>Name:</b> Fal</li>
 <li><b>Pronouns:</b> She/Her</li>
+    <br></div>
+    <p align="center">
+  <strong><a href="https://beacons.ai/falafeltoja">Beacons</a></strong> |
+  <strong><a href="https://x.com/FalafelToJa">Twitter</a></strong> |
+  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
+  <strong><a href="https://www.twitch.tv/falafeltoja/about">Twitch</a></strong> |
+  <strong><a href="https://www.youtube.com/channel/UCQ7OZ6LJIpcSxU7e4oWIm9Q">YouTube</a></strong>
+</p>
+
+
 <h2 align="center">~ Żegnam! / Bau bau! / Thanks for reading! / Adios! ~</h2>
 <div align="center">
 <img src="https://media1.tenor.com/m/rW4avprQN8oAAAAC/lumity-chibi.gif">
