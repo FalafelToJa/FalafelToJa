@@ -44,7 +44,7 @@
 <h2> </h2>
 </p>
 
-<h3 align="center">**~ Żegnam! / Bau bau! / Thanks for reading! / Adios! ~</h3>
+<h3 align="center"><b>~ Żegnam! / Bau bau! / Thanks for reading! / Adios! ~</h3></b>
 <div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo0d3liajZzNG8zZnlleHdneXprcGgxaTExd3VhaHN3NGNkcnp3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/So9oVbGQXoI6BRxI0H/giphy.webp">
 </div>
