@@ -20,12 +20,25 @@
 <li><b>Pronouns:</b> She/Her</li>
     <br></div>
     <p align="center">
+
+
+   name: Favorites characters
+uses: FalafelToJa
+with:
+  filename: metrics.plugin.anilist.characters.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_anilist: yes
+  plugin_anilist_sections: characters
+  plugin_anilist_limit_characters: 22
+
       
   <strong><a href="https://beacons.ai/falafeltoja">Beacons</a></strong> |
   <strong><a href="https://x.com/FalafelToJa">Twitter</a></strong> |
+  <strong><a href="https://www.youtube.com/channel/UCQ7OZ6LJIpcSxU7e4oWIm9Q">YouTube</a></strong> |
   <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-  <strong><a href="https://www.twitch.tv/falafeltoja/about">Twitch</a></strong> |
-  <strong><a href="https://www.youtube.com/channel/UCQ7OZ6LJIpcSxU7e4oWIm9Q">YouTube</a></strong>
+  <strong><a href="https://www.twitch.tv/falafeltoja/about">Twitch</a></strong> 
+  
 </p>
     <p align="center">
   <strong><a href="https://myanimelist.net/profile/FalafelToJa">MAL</a></strong> |
@@ -34,6 +47,9 @@
   <strong><a href="https://app.tvtime.com/user/72177535?referrer_id=72177535">TvTime</a></strong>
 </p>
 <br></div>
+
+
+
 
 <h2 align="center">~ Żegnam! / Bau bau! / Thanks for reading! / Adios! ~</h2>
 <div align="center">
