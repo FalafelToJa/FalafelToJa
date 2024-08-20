@@ -21,17 +21,9 @@
     <br></div>
     <p align="center">
 
-
-   name: Favorites characters
-uses: FalafelToJa
-with:
-  filename: metrics.plugin.anilist.characters.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_anilist: yes
-  plugin_anilist_sections: characters
-  plugin_anilist_limit_characters: 22
-
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=00fr12pmjml4stoanxcmjfeff">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=00fr12pmjml4stoanxcmjfeff&custom_title=Bangery&hide_playing=1" alt="Data Card for Spotify">
+</a>
       
   <strong><a href="https://beacons.ai/falafeltoja">Beacons</a></strong> |
   <strong><a href="https://x.com/FalafelToJa">Twitter</a></strong> |
