@@ -9,9 +9,9 @@
   <h3><p>▮</p></h3>
   <h3><p>▮</p></h3>
   <h3><p>▼</p></h3>
- <p><a href="https://www.youtube.com/watch?v=P7W2LaLAat8&pp=ygUUdGhlIG93bCBob3VzZSBlbmRpbmc%3D"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB5aWNlZWp5dHRubGloMzU0N3ltdjdpN2xpMzJoODNiZjZyN2t1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QN0nPa79SxYVHbtVXQ/giphy.gif"width="20%"><img src="https://media1.tenor.com/m/bJ8x8rb5LKUAAAAd/monster-prom-zoe.gif"width="20%"align="left"></a></p>
-
- <img src="https://lanyard.kyrie25.me/api/455761163381243936?showBanner=animated&animationDuration=6s&waveColor=6b4afa&gradient=5bcffa-f5abb9-ffffff-f5abb9-5bcffa"/>
+ <p><a href="https://www.youtube.com/watch?v=P7W2LaLAat8&pp=ygUUdGhlIG93bCBob3VzZSBlbmRpbmc%3D"<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB5aWNlZWp5dHRubGloMzU0N3ltdjdpN2xpMzJoODNiZjZyN2t1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QN0nPa79SxYVHbtVXQ/giphy.gif"width="20%>
+ 
+  <img src="https://lanyard.kyrie25.me/api/455761163381243936?showBanner=animated&animationDuration=6s&waveColor=6b4afa&gradient=5bcffa-f5abb9-ffffff-f5abb9-5bcffa"/>
 
 <h2 align="center">~ O mnie! ~</h2>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm03eWowaWsyMzZxZ2JuMHp0ODVoeDZkbG04Y3ZrOGtrM2I4cDV1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/grE5LYjlcLC0CunHRh/giphy.gif"width="20.5%"align="left">  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm03eWowaWsyMzZxZ2JuMHp0ODVoeDZkbG04Y3ZrOGtrM2I4cDV1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/grE5LYjlcLC0CunHRh/giphy.gif"width="20.5%"align="right">
