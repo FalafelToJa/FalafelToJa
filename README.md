@@ -25,7 +25,7 @@
   <strong><a href="https://beacons.ai/falafeltoja">Beacons</a></strong> |
   <strong><a href="https://x.com/FalafelToJa">Twitter</a></strong> |
   <strong><a href="https://www.youtube.com/channel/UCQ7OZ6LJIpcSxU7e4oWIm9Q">YouTube</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
+  <strong><a href="https://discord.com/invite/TAHxXTJ3ej">Discord</a></strong> |
   <strong><a href="https://www.twitch.tv/falafeltoja/about">Twitch</a></strong> 
   
 </p>
