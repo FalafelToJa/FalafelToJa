@@ -1,8 +1,7 @@
 <body>
   <center>
     <h1 align="center">~ Elo Żelo ~</h1>
-<p align="center">
-  <img src="https://i.giphy.com/apxqYyfBqaYKOyGekB.webp"width="50%">  <img src="https://media1.tenor.com/m/eKFrAu0IU44AAAAC/lumity-lumity-kiss.gif"width="20.5%"align="right"><img src="https://media1.tenor.com/m/eVHVFcHe73IAAAAC/bridget-bridget-guilty-gear.gif"width="22.5%"align="left"> 
+<p align="center"><img src="https://media1.tenor.com/m/eVHVFcHe73IAAAAC/bridget-bridget-guilty-gear.gif"width="22.5%"align="left"> 
 </p>
 <div align="center">
   <h3><b><p>Banger!</p></b></h3>
