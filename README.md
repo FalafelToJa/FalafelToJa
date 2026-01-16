@@ -12,39 +12,9 @@
  <p><a href="https://www.youtube.com/watch?v=P7W2LaLAat8&pp=ygUUdGhlIG93bCBob3VzZSBlbmRpbmc%3D"<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB5aWNlZWp5dHRubGloMzU0N3ltdjdpN2xpMzJoODNiZjZyN2t1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QN0nPa79SxYVHbtVXQ/giphy.gif"width="20%>
  
   <img src="https://lanyard.kyrie25.me/api/455761163381243936?showBanner=animated&animationDuration=6s&waveColor=6b4afa&gradient=5bcffa-f5abb9-ffffff-f5abb9-5bcffa"/>
-
-<h2 align="center">~ O mnie! ~</h2>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm03eWowaWsyMzZxZ2JuMHp0ODVoeDZkbG04Y3ZrOGtrM2I4cDV1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/grE5LYjlcLC0CunHRh/giphy.gif"width="20.5%"align="left">  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm03eWowaWsyMzZxZ2JuMHp0ODVoeDZkbG04Y3ZrOGtrM2I4cDV1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/grE5LYjlcLC0CunHRh/giphy.gif"width="20.5%"align="right">
-<div align="center">
-<li><b>Name:</b> Fal</li>
-<li><b>Pronouns:</b> She/Her</li>
-    <br></div>
-    <p align="center">
-
-      
-  <strong><a href="https://beacons.ai/falafeltoja">Beacons</a></strong> |
-  <strong><a href="https://x.com/FalafelToJa">Twitter</a></strong> |
-  <strong><a href="https://www.youtube.com/channel/UCQ7OZ6LJIpcSxU7e4oWIm9Q">YouTube</a></strong> |
-  <strong><a href="https://discord.com/invite/TAHxXTJ3ej">Discord</a></strong> |
-  <strong><a href="https://www.twitch.tv/falafeltoja/about">Twitch</a></strong> 
-  
-</p>
-    <p align="center">
-  <strong><a href="https://myanimelist.net/profile/FalafelToJa">MAL</a></strong> |
-  <strong><a href="https://anilist.co/user/FalafelToJa/">AniList</a></strong> |
-  <strong><a href="https://www.backloggd.com/u/FalafelToJa/">Backloggd</a></strong> |
-  <strong><a href="https://app.tvtime.com/user/72177535?referrer_id=72177535">TvTime</a></strong>
-</p>
-<br></div>
-<h2> </h2>
  <p align="center">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=00fr12pmjml4stoanxcmjfeff">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=00fr12pmjml4stoanxcmjfeff&custom_title=Bangery&hide_playing=1&width=5%" alt="Data Card for Spotify">
 </a> </p>
 <h2> </h2>
 </p>
-
-<h3 align="center"><b>~ Żegnam! / Bau bau! / Thanks for reading! / Adios! ~</h3></b>
-<div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo0d3liajZzNG8zZnlleHdneXprcGgxaTExd3VhaHN3NGNkcnp3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/So9oVbGQXoI6BRxI0H/giphy.webp">
-</div>
